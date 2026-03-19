@@ -1,0 +1,1 @@
+Heres some core systems for the TripleJ RPG that I worked on, as well as a neat little typewriter effect script.
